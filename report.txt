@@ -1,0 +1,127 @@
+Rapport.
+
+Jag skapade git repositoriet super-duper-spoon från githubs webinterface. 
+Jag ssh:ade till HPOPEN och skrev där efter att jag skapat filerna:
+git init
+git add README.md  __main__.py  questions.txt report.txt 
+git commit -m "first commit"
+git branch -M master #eftersom det var master och inte main vi skulle använda
+git remote add origin https://github.com/jonnyVarn/supder-duper-spoon
+git push -u origin master
+
+------------------------------------------------------------------------------
+
+Jag skapade en ny branch med:
+git checkout -b "important-changes"
+git add __main_.py
+git commit -m "changed loop to 50"
+git push --set-upstream origin important-changes
+
+---------------------------------------------------------------------------
+
+Jag skapade en fork från rammy via webinterface sedan:
+
+git clone https://github.com/jonnyVarn/ec_versionshantering
+git checkout -b easy
+git add __main__.py
+git commit -m "easy"
+git push --set-upstream origin easy
+-----------------------------------------------------------------------------
+
+Jag skapade en pull request på rammys gitproject som han sedan mergade
+-----------------------------------------------------------------------------
+
+Jag skapade en fork via metalmamas git sida. (utelämnar lite url och annat eftersom det är dokumenterat på andra)
+jag clonade sidan
+
+git clone https://"som url"
+git checkout -b "important changes"
+git commit
+git push
+-----------------------------------------------------------------------------
+
+Jag gick till metalmammas url och gjorde pullrequest.
+----------------------------------------------------------------------------
+
+metalmamma gjorde fork på min gjorde pullrequest.
+-----------------------------------------------------------------------------
+
+jag skapade en fork på simons och gjorde en pullrequest
+väntar fortfarande på att han ska skapa en egen fork av något på min sida.
+-------------------------------------------------------------------------------
+
+
+t 86ff2cec51346338df6f7949165013b158074a32 (HEAD -> master, origin/master, origin/HEAD)
+Author: Jw <darth.vader@rymdimperiet.nu>
+Date:   Wed Jan 6 09:53:00 2021 +0100
+
+    added questions
+
+ questions.txt | 80 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 80 insertions(+)
+
+commit 64115184d522af39bb2ceb98a5fa1f3388b96f87
+Merge: 7867155 273285d
+Author: jonnyVarn <71185833+jonnyVarn@users.noreply.github.com>
+Date:   Tue Jan 5 16:18:19 2021 +0100
+
+    Merge pull request #3 from metalmama/improvements
+
+    changed loop from 100 to 50
+
+commit 273285d10bd2f670bf01172ae786cfb94fb2264a
+Author: metalmama <sofie@hancocksit.com>
+Date:   Tue Jan 5 15:42:19 2021 +0100
+
+    changed loop from 100 to 50
+
+ __main__.py | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 7867155a875bc7fdbd144c0a614d06b7edab536c
+Merge: 736c697 6dae05b
+Author: jonnyVarn <71185833+jonnyVarn@users.noreply.github.com>
+Date:   Mon Jan 4 13:42:12 2021 +0100
+
+    Merge pull request #2 from rammymansour/improvments
+
+    changed loop to 100 for backwards compatibility.
+
+commit 6dae05bd192357f32eced264b6e1c9343f7b5093
+Author: Rammy Mansour <Rammy92>
+Date:   Mon Jan 4 13:13:59 2021 +0100
+
+    changed loop to 100
+
+ __main__.py | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 736c697c90506c9667ecd03b3d020373867199d1
+Merge: 5cffbd1 0fcb21f
+Author: jonnyVarn <71185833+jonnyVarn@users.noreply.github.com>
+Date:   Mon Jan 4 11:41:49 2021 +0100
+
+    Merge pull request #1 from jonnyVarn/important-changes
+
+    changed loop to 50
+
+commit 0fcb21f943b1fb9b88e25d47ebbeb5853e0155a0
+Author: jonny <jonny@HPOPEN.my.domain>
+Date:   Mon Jan 4 11:18:24 2021 +0100
+
+    changed loop to 50
+
+ __main__.py | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 5cffbd16550c33d5bad41c940110df45159b05ef
+Author: jonny <jonny@HPOPEN.my.domain>
+Date:   Mon Jan 4 11:07:15 2021 +0100
+
+    first commit
+
+ README.md     | 1 +
+ __main__.py   | 5 +++++
+ questions.txt | 0
+ report.txt    | 0
+ 4 files changed, 6 insertions(+)
