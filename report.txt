@@ -51,6 +51,38 @@ väntar fortfarande på att han ska skapa en egen fork av något på min sida.
 -------------------------------------------------------------------------------
 
 
+
+---------------------------------------------------------------------------------
+Vad är fördelen med att använda sig av pull requests när man arbetar i ett team av systemutvecklare? 
+-------------------------------------------------------------------------------------------------------
+
+Om flera arbetar samtidigt med ett projekt så kan man se till att inte funktioner förstör .
+Någon måste godkänna innan ny feature införs.
+
+
+------------------------------------------------------------------------------------------------------------------------
+Varför är det viktigt att använda sig av versionshantering? Vad var fördelarna i förhållande till inlämningsuppgiften? 
+-----------------------------------------------------------------------------------------------------------------------
+
+Man kan gå tillbaka och backa om man infört något som inte fungerar.
+Det går att hålla flera branches igång samtidigt en experimental och en main.
+Man kan se när något ändrats och av vem.
+
+Fördelar för inlämningsuppgiften är kanske inte lika många men det går att se på history vad som skett i projektet.
+
+
+---------------------------------------------------------------------
+Vad är fördelarna med versionshantering och Git mer generellt sett?
+----------------------------------------------------------------------
+
+Man kan gå tillbaka och backa om man infört något som inte fungerar.
+Det går att hålla flera branches igång samtidigt en experimental och en main.
+Man kan se när något ändrats och av vem.
+Allt är spårbart och går att ändra tillbaka .
+
+
+
+
 t 86ff2cec51346338df6f7949165013b158074a32 (HEAD -> master, origin/master, origin/HEAD)
 Author: Jw <darth.vader@rymdimperiet.nu>
 Date:   Wed Jan 6 09:53:00 2021 +0100
