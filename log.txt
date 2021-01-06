@@ -1,0 +1,83 @@
+commit ef266e7d5d90101356bd4f75edb3d5944b8ac7ff (HEAD -> master, origin/master, origin/HEAD)
+Merge: af9b818 f1154a8
+Author: jonnyVarn <71185833+jonnyVarn@users.noreply.github.com>
+Date:   Wed Jan 6 21:10:38 2021 +0100
+
+    Merge pull request #4 from ZabatorXXX/master
+
+    improvements
+
+commit f1154a8a9d543fd1dda95a2a4131710c88365e3b
+Author: ZabatorXXX <42642927+ZabatorXXX@users.noreply.github.com>
+Date:   Wed Jan 6 16:45:16 2021 +0100
+
+    improvements
+
+commit af9b8186d93f29723a0f10318ccac752a9c4fb1d
+Author: Jw <darth.vader@rymdimperiet.nu>
+Date:   Wed Jan 6 11:07:58 2021 +0100
+
+    added more text
+
+commit 95b9cebbd35cb3f90cdbe225ada689412d299936
+Author: Jw <darth.vader@rymdimperiet.nu>
+Date:   Wed Jan 6 10:55:04 2021 +0100
+
+    added some text in report.txt
+
+commit 86ff2cec51346338df6f7949165013b158074a32
+Author: Jw <darth.vader@rymdimperiet.nu>
+Date:   Wed Jan 6 09:53:00 2021 +0100
+
+    added questions
+
+commit 64115184d522af39bb2ceb98a5fa1f3388b96f87
+Merge: 7867155 273285d
+Author: jonnyVarn <71185833+jonnyVarn@users.noreply.github.com>
+Date:   Tue Jan 5 16:18:19 2021 +0100
+
+    Merge pull request #3 from metalmama/improvements
+
+    changed loop from 100 to 50
+
+commit 273285d10bd2f670bf01172ae786cfb94fb2264a
+Author: metalmama <sofie@hancocksit.com>
+Date:   Tue Jan 5 15:42:19 2021 +0100
+
+    changed loop from 100 to 50
+
+commit 7867155a875bc7fdbd144c0a614d06b7edab536c
+Merge: 736c697 6dae05b
+Author: jonnyVarn <71185833+jonnyVarn@users.noreply.github.com>
+Date:   Mon Jan 4 13:42:12 2021 +0100
+
+    Merge pull request #2 from rammymansour/improvments
+
+    changed loop to 100 for backwards compatibility.
+
+commit 6dae05bd192357f32eced264b6e1c9343f7b5093
+Author: Rammy Mansour <Rammy92>
+Date:   Mon Jan 4 13:13:59 2021 +0100
+
+    changed loop to 100
+
+commit 736c697c90506c9667ecd03b3d020373867199d1
+Merge: 5cffbd1 0fcb21f
+Author: jonnyVarn <71185833+jonnyVarn@users.noreply.github.com>
+Date:   Mon Jan 4 11:41:49 2021 +0100
+
+    Merge pull request #1 from jonnyVarn/important-changes
+
+    changed loop to 50
+
+commit 0fcb21f943b1fb9b88e25d47ebbeb5853e0155a0
+Author: jonny <jonny@HPOPEN.my.domain>
+Date:   Mon Jan 4 11:18:24 2021 +0100
+
+    changed loop to 50
+
+commit 5cffbd16550c33d5bad41c940110df45159b05ef
+Author: jonny <jonny@HPOPEN.my.domain>
+Date:   Mon Jan 4 11:07:15 2021 +0100
+
+    first commit
