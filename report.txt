@@ -46,11 +46,15 @@ Jag gick till metalmammas url och gjorde pullrequest.
 metalmamma gjorde fork på min gjorde pullrequest.
 -----------------------------------------------------------------------------
 
-jag skapade en fork på simons och gjorde en pullrequest
-väntar fortfarande på att han ska skapa en egen fork av något på min sida.
+jag skapade en fork på simons och gjorde en pullrequest.
+-------------------------------------------------------------------------------
+Simon gjorde fork på min gjorde pullrequest som jag mergade.
 -------------------------------------------------------------------------------
 
 
+Jag gjorde en fork på alexandras versionshantering och en fork och ändrade lite och sedan gjorde jag en pull request.
+----------------------------------------------------------------------------------------------------------------------
+Alexandra gjorde en fork på min super-duper-spoon och en ändring i __main__.py och  sedan en pull request.
 
 ---------------------------------------------------------------------------------
 Vad är fördelen med att använda sig av pull requests när man arbetar i ett team av systemutvecklare? 
