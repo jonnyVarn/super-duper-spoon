@@ -1,7 +1,9 @@
 Rapport.
 
 Jag skapade git repositoriet super-duper-spoon från githubs webinterface. 
-Jag ssh:ade till HPOPEN och skrev där efter att jag skapat filerna:
+-------------------------------------------------------------------------
+Jag ssh:ade till HPOPEN och skrev där mkdir super-duper-spoon och sedan touch __main__.py, questions.txt och report.txt.
+efter att jag skapat katalogen och filerna:
 git init
 git add README.md  __main__.py  questions.txt report.txt 
 git commit -m "first commit"
