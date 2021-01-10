@@ -1,3 +1,37 @@
+Other
+commit 1dac6941b9b0d526d4beb140ee891bd3af37c9db (HEAD -> master, origin/master, origin/HEAD)
+Merge: 8927d59 6d9748d
+Author: jonnyVarn <71185833+jonnyVarn@users.noreply.github.com>
+Date:   Sun Jan 10 20:50:18 2021 +0100
+
+    Merge pull request #5 from alexandrafreccero/improvements
+
+    changed range to 30
+
+commit 6d9748dc6b1bf75dab898953d9e498e0b85147e3
+Author: Alexandra Freccero <alexandrafreccero@gmail.com>
+Date:   Sun Jan 10 20:44:28 2021 +0100
+
+    changed range to 30
+
+commit 8927d59ded7888e3f660bf7a3f0fa3fa6e17de64
+Author: jonnyVarn <71185833+jonnyVarn@users.noreply.github.com>
+Date:   Wed Jan 6 21:34:56 2021 +0100
+
+    Update questions.txt
+
+commit 21c7136a5df7091b7d3036d0ebc2dc1b53d7b89e
+Author: Jw <darth.vader@rymdimperiet.nu>
+Date:   Wed Jan 6 21:31:53 2021 +0100
+
+    added the log because rammys commit is not showing
+
+commit ef266e7d5d90101356bd4f75edb3d5944b8ac7ff
+Merge: af9b818 f1154a8
+Author: jonnyVarn <71185833+jonnyVarn@users.noreply.github.com>
+Date:   Wed Jan 6 21:10:38 2021 +0100
+
+
 commit ef266e7d5d90101356bd4f75edb3d5944b8ac7ff (HEAD -> master, origin/master, origin/HEAD)
 Merge: af9b818 f1154a8
 Author: jonnyVarn <71185833+jonnyVarn@users.noreply.github.com>
